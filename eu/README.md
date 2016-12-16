@@ -1,1 +1,1 @@
-# Drawing a map of Europe with visualization of country data.
+# Data Visualization in R.
