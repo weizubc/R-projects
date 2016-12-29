@@ -1,1 +1,0 @@
-#Simulating distribution in R
